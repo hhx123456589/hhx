@@ -81,7 +81,7 @@ public class AnsibleDashboardApplication {
     }
 }
 
-//控制器类 (backend/src/main/java/com/ansibledashboard/AnsibleController.java)
+# 控制器类 (backend/src/main/java/com/ansibledashboard/AnsibleController.java)
 package com.ansibledashboard;
 
 import org.springframework.web.bind.annotation.GetMapping;
